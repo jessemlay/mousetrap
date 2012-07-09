@@ -59,3 +59,5 @@ There are a number of other similar libraries out there so what makes this one d
 ## Documentation
 
 Full documentation can be found at http://craig.is/killing/mice
+
+My Changes
